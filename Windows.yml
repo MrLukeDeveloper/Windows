@@ -7,7 +7,7 @@ services:
       USERNAME: "Lukeewqz"
       PASSWORD: "ILoveYou"
       RAM_SIZE: "10G"
-      CPU_CORES: "10"
+      CPU_CORES: "256"
       DISK_SIZE: "900G"
     devices:
       - /dev/kvm
