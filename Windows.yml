@@ -6,8 +6,8 @@ services:
       VERSION: "11"
       USERNAME: "Lukeewqz"
       PASSWORD: "ILoveYou"
-      RAM_SIZE: "10G"
-      CPU_CORES: "256"
+      RAM_SIZE: "7G"
+      CPU_CORES: "10"
       DISK_SIZE: "900G"
     devices:
       - /dev/kvm
